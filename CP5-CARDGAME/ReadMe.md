@@ -29,3 +29,6 @@ Para executar o projeto, você precisa executar o arquvo SQL que está no projet
 1. Clone o repositório do projeto.
 2. Navegue até o diretório do projeto e execute o comando `mvn clean install` para construir o projeto.
 3. Execute o comando `java -jar target/nome-do-projeto.jar` para iniciar o aplicativo.
+
+##Link para o Live Code do projeto
+[Link Video Youtube](https://www.youtube.com/watch?v=3aT3eID34Do&t=148s)
